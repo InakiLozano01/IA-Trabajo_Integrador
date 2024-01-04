@@ -34,4 +34,4 @@ De manera general las consignas para el Trabajo Integrador consisten en el cumpl
 
 - Lozano, Iñaki Fernando
 - Medina Raed, Luis Eugenio
-- Padros, Marcos Isaia
+- Padros, Marcos Isaias
