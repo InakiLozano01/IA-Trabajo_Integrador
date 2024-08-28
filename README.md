@@ -30,7 +30,7 @@ De manera general las consignas para el Trabajo Integrador consisten en el cumpl
 * [Visual Studio Code](https://code.visualstudio.com/) - Un potente y liviano editor de código fuente desarrollado por Microsoft. Ideal para trabajar con Python y otros lenguajes de programación. 
 
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 - Lozano, Iñaki Fernando
 - Medina Raed, Luis Eugenio
